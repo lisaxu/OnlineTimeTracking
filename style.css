@@ -1,0 +1,110 @@
+label {
+	padding-top: 5px;
+}
+
+.title1 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	font-weight: bold;
+}
+.title2 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+}
+.table1{
+	table-layout: fixed;
+	margin-left : auto;
+	margin-right: auto;
+	margin-top: 50px;
+	border: thin solid black;
+	border-collapse: separated;
+	border-spacing: 0px;
+	width: 75%
+}
+.column-heading1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	text-align: center;
+	font-weight: bold;
+	outline: thin solid black;
+}
+.column1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	text-align: center;
+}
+.buttons-table-under-table {
+	table-layout: fixed;
+	margin-left : auto;
+	margin-right: auto;
+	margin-top: 5px;
+	width: 75%;
+}
+
+
+
+
+.auto-style1 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+}
+.auto-style2 {
+	font-size: medium;
+}
+.auto-style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+}
+.auto-style6 {
+	font-size: x-large;
+}
+.auto-style7 {
+	border-width: 1px;
+}
+.auto-style8 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	border-width: 1px;
+}
+.auto-style10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	text-align: right;
+}
+.tablecats{
+	table-layout: fixed;
+	margin-left : auto;
+	margin-right: auto;
+	border: 1px solid black;
+}
+.tablecats2{
+	table-layout: fixed;
+	margin-left : auto;
+	margin-right: auto;
+	border: 1px;
+}
+.auto-style12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	text-align: center;
+}
+.auto-style14 {
+	border-width: 1px;
+	text-align: right;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style15 {
+	border-width: 1px;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#logTable_wrapper{
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 10px
+}
